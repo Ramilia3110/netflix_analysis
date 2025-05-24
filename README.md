@@ -43,7 +43,7 @@ This section explores how Netflix’s subscriber base evolved—both in terms of
 
 Here we explore how Netflix’s presence differs across platforms. From regional dominance to multi-platform content sharing, this chapter uncovers the platform’s international reach and competition.
 
-![Netflix Distributions Across Platforms](images/subscribers_growth.png)
+![Netflix Distributions Across Platforms](images/netflix_presense.png)
 
 ---
 
